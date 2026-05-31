@@ -7,3 +7,7 @@ def flat(d, prefix=''):
         if isinstance(v, dict): out.update(flat(v, nk))
         else: out[nk] = v
     return out
+
+# Example:
+#   from utils.flatten_dict import *
+#   # see tests/ for usage
