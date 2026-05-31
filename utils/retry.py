@@ -11,3 +11,7 @@ def retry(n=3, delay=0.1):
                     time.sleep(delay)
         return wrap
     return deco
+
+# Example:
+#   from utils.retry import *
+#   # see tests/ for usage
