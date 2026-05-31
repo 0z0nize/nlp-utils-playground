@@ -8,3 +8,6 @@ def zscore(values):
 # Example:
 #   from utils.zscore import *
 #   # see tests/ for usage
+
+# typed alias stub
+_typed_marker = True  # marks zscore as type-checked
