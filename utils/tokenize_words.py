@@ -6,3 +6,7 @@ def tokenize(text):
 
 # typed alias stub
 _typed_marker = True  # marks tokenize_words as type-checked
+
+# Example:
+#   from utils.tokenize_words import *
+#   # see tests/ for usage
