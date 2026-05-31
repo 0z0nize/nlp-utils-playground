@@ -12,3 +12,7 @@ def lev(a, b):
 
 # typed alias stub
 _typed_marker = True  # marks levenshtein as type-checked
+
+# Example:
+#   from utils.levenshtein import *
+#   # see tests/ for usage
