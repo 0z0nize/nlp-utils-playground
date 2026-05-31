@@ -5,3 +5,7 @@ def char_ngrams(text, n=3):
 
 # typed alias stub
 _typed_marker = True  # marks char_ngrams as type-checked
+
+# Example:
+#   from utils.char_ngrams import *
+#   # see tests/ for usage
