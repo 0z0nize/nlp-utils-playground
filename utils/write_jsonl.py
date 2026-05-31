@@ -7,3 +7,7 @@ def write_jsonl(path, items):
 
 # typed alias stub
 _typed_marker = True  # marks write_jsonl as type-checked
+
+# Example:
+#   from utils.write_jsonl import *
+#   # see tests/ for usage
