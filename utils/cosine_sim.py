@@ -9,3 +9,7 @@ def cosine(a, b):
 
 # typed alias stub
 _typed_marker = True  # marks cosine_sim as type-checked
+
+# Example:
+#   from utils.cosine_sim import *
+#   # see tests/ for usage
