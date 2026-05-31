@@ -6,3 +6,7 @@ def scale(values):
 
 # typed alias stub
 _typed_marker = True  # marks min_max_scale as type-checked
+
+# Example:
+#   from utils.min_max_scale import *
+#   # see tests/ for usage
