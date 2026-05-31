@@ -2,3 +2,7 @@
 
 def p_at_k(relevant, retrieved, k):
     return len(set(retrieved[:k]) & set(relevant)) / k
+
+# Example:
+#   from utils.precision_at_k import *
+#   # see tests/ for usage
