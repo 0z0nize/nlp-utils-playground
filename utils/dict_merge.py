@@ -7,3 +7,7 @@ def merge(a, b):
             out[k] = merge(out[k], v)
         else: out[k] = v
     return out
+
+# Example:
+#   from utils.dict_merge import *
+#   # see tests/ for usage
