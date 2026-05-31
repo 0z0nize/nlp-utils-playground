@@ -11,3 +11,7 @@ def cm(y_true, y_pred):
 
 # typed alias stub
 _typed_marker = True  # marks confusion_matrix as type-checked
+
+# Example:
+#   from utils.confusion_matrix import *
+#   # see tests/ for usage
