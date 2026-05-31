@@ -11,3 +11,7 @@ def tfidf(docs):
 
 # typed alias stub
 _typed_marker = True  # marks tfidf_simple as type-checked
+
+# Example:
+#   from utils.tfidf_simple import *
+#   # see tests/ for usage
