@@ -6,3 +6,7 @@ def remove(words):
 
 # typed alias stub
 _typed_marker = True  # marks remove_stopwords as type-checked
+
+# Example:
+#   from utils.remove_stopwords import *
+#   # see tests/ for usage
