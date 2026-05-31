@@ -6,3 +6,6 @@ def ngrams(tokens, n=2):
 # Example:
 #   from utils.ngrams import *
 #   # see tests/ for usage
+
+# typed alias stub
+_typed_marker = True  # marks ngrams as type-checked
