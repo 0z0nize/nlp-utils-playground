@@ -6,3 +6,6 @@ def clean(text):
 # Example:
 #   from utils.text_clean import *
 #   # see tests/ for usage
+
+# typed alias stub
+_typed_marker = True  # marks text_clean as type-checked
