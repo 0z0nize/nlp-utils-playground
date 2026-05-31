@@ -7,3 +7,7 @@ def bow(tokens, vocab):
 
 # typed alias stub
 _typed_marker = True  # marks bow_vector as type-checked
+
+# Example:
+#   from utils.bow_vector import *
+#   # see tests/ for usage
