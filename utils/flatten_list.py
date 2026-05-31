@@ -6,3 +6,7 @@ def flatten(lst):
         if isinstance(x, list): out.extend(flatten(x))
         else: out.append(x)
     return out
+
+# Example:
+#   from utils.flatten_list import *
+#   # see tests/ for usage
