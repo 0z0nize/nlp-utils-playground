@@ -9,3 +9,6 @@ def entropy(items):
 # Example:
 #   from utils.entropy import *
 #   # see tests/ for usage
+
+# typed alias stub
+_typed_marker = True  # marks entropy as type-checked
