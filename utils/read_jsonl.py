@@ -8,3 +8,6 @@ def read_jsonl(path):
 # Example:
 #   from utils.read_jsonl import *
 #   # see tests/ for usage
+
+# typed alias stub
+_typed_marker = True  # marks read_jsonl as type-checked
