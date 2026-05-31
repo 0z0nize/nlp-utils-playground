@@ -9,3 +9,7 @@ def batches(iterable, size):
 
 # typed alias stub
 _typed_marker = True  # marks batch_iter as type-checked
+
+# Example:
+#   from utils.batch_iter import *
+#   # see tests/ for usage
